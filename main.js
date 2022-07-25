@@ -1,4 +1,3 @@
-
-function changecolor(){
-	document.body.style.backgroundColor = "red";
+function changeBackgroundColor(){
+	 document.body.style.backgroundColor = "green";
 }
